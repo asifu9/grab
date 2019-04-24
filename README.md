@@ -1,4 +1,13 @@
 
+Find all the dependencies for the given package.
+
+Technologies used:
+Java, Spring Boot
+
+Enviroment:
+1. Java 1.8 or later
+2. Apache Maven - any new release
+
 
 Note: 
 1. I have not written any REST end point to invoke the method.
